@@ -22,6 +22,17 @@
 
 }
 
+ .hero-image {
+  background-image: url("../img/Copy-of-Social-Media-branding-for-articles-2022-01-21T013215.145-900x471.jpg");
+  background-color: #cccccc;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border-radius: 19px;
+}
+
 .my-8{
     padding-top: 80px;
 }
