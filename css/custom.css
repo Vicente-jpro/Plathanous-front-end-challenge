@@ -23,9 +23,9 @@
 }
 
  .hero-image {
-  background-image: url("../img/Copy-of-Social-Media-branding-for-articles-2022-01-21T013215.145-900x471.jpg");
+  background-image: url("../img/Copy-of-Social-Media-branding-for-articles-2022-01-21T013215.145-900x471.png");
   background-color: #cccccc;
-  height: 900px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,7 +36,7 @@
  .cover-image {
   background-image: url("../img/Furniture.jpg");
   background-color: #cccccc;
-  height: 400px;
+  height: 570px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
